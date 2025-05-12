@@ -100,9 +100,9 @@ We’re here to support you. Get in touch with us:
 - 📧 **Email**: [Info.careinfotech@gmail.com](mailto:Info.careinfotech@gmail.com)  
 - 📞 **Phone**: +91 89838 34716  
 - 💬 **WhatsApp Channel**: [CARE INFOTECH](https://whatsapp.com/channel/0029VaAMqWnJZg454M5epE0T)
-- 🌐 **Website**: [www.careinfotech.com](http://www.careinfotech.com)  
-- 🔗 **LinkedIn**: [Care Infotech](https://www.linkedin.com/company/care-infotech/)
-- 📘 **Facebook**: [Care Infotech](https://www.facebook.com/thecareinfotech/)
+- 🌐 **Website**: [www.careinfotech.com](http://www.careinfotech.com)
+- 🔗 **LinkedIn**: [Care Infotech](https://www.linkedin.com/company/care-infotech)
+- 📘 **Facebook**: [Care Infotech](https://www.facebook.com/thecareinfotech)
 
 ---
 
