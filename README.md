@@ -1,6 +1,6 @@
 # 💼 Care Infotech
 
-Welcome to **Care Infotech**, a leading provider of international IT manpower support and after-sales services, specializing in a wide range of IT solutions and services.
+Welcome to **Care Infotech**, a leading provider of national IT manpower support and after-sales services, specializing in a wide range of IT solutions and services.
 
 ---
 
@@ -11,9 +11,7 @@ Care Infotech’s mission is to ensure complete customer satisfaction by providi
 We deliver personalized care, comprehensive IT solutions, and robust infrastructure to empower businesses.
 
 ### 🌐 Vision:
-Care Infotech aspires to be a leading international IT support provider, expanding beyond India.  
-We aim to build a strong global presence, empower businesses with innovative solutions, and deliver world-class service.
-
+Care Infotech aspires to be a leading India-based IT support provider, empowering individuals and businesses through innovative solutions, and continuously striving to provide exceptional service.
 ---
 
 ## 🧠 Our Expertise
@@ -29,7 +27,7 @@ We develop and implement **customized IT solutions** to match your business’s 
 Our focus is on building **scalable IT infrastructure** for growth.
 
 ### 🤝 Trusted Partnerships
-We partner with top IT companies in **India** and the **Gulf region**, enabling us to deliver **forward-thinking, reliable solutions**.
+We partner with top IT companies in **India**  enabling us to deliver **forward-thinking, reliable solutions**.
 
 ---
 
@@ -58,7 +56,7 @@ We provide comprehensive staffing for all your IT project-based needs.
 Minimize disruptions with **immediate** and **nationwide** IT staffing solutions.
 
 - ⚡ Rapid deployment of skilled engineers  
-- 🌍 Support across India and Gulf countries  
+- 🌍 Support across India   
 - 💼 Specialized talent in desktop, network, and server support
 
 ---
